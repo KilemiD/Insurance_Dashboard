@@ -1,0 +1,126 @@
+Type,Year,Indicator,Amount
+Long Term,2021,Gross Direct Premium,123687148
+Long Term,2021,Outward Reinsurance,9081590
+Long Term,2021,Net Premiums,114605558
+Long Term,2021,Management expenses,15689550
+Long Term,2021,Net Commissions,6493140
+Long Term,2021,Life Fund C/F,494301595
+Long Term,2020,Gross Direct Premium,102078013
+Long Term,2020,Outward Reinsurance,6751093
+Long Term,2020,Net Premiums,95326920
+Long Term,2020,Management expenses,14381760
+Long Term,2020,Net Commissions,5793085
+Long Term,2020,Life Fund C/F,426165838
+Long Term,2019,Gross Direct Premium,97395510
+Long Term,2019,Outward Reinsurance,7529611
+Long Term,2019,Net Premiums,89865899
+Long Term,2019,Management expenses,15362328
+Long Term,2019,Net Commissions,5277712
+Long Term,2019,Life Fund C/F,387780599
+Long Term,2018,Gross Direct Premium,87408352
+Long Term,2018,Outward Reinsurance,7048742
+Long Term,2018,Net Premiums,80359610
+Long Term,2018,Management expenses,13928440
+Long Term,2018,Net Commissions,4887507
+Long Term,2018,Life Fund C/F,333263364
+Long Term,2017,Gross Direct Premium,82807826
+Long Term,2017,Outward Reinsurance,5860038
+Long Term,2017,Net Premiums,76947788
+Long Term,2017,Management expenses,12072033
+Long Term,2017,Net Commissions,5448401
+Long Term,2017,Life Fund C/F,301571353
+Reinsurance,2021,Inward reinsurance premium,96544
+Reinsurance,2021,outward reinsurance premium,12676
+Reinsurance,2021,Net premium income,83868
+Reinsurance,2021,Management expenses,42152
+Reinsurance,2021,Net commissions,18673
+Reinsurance,2021,Life fund c/f,1617766
+Reinsurance,2020,Inward reinsurance premium,239008
+Reinsurance,2020,outward reinsurance premium,60950
+Reinsurance,2020,Net premium income,178058
+Reinsurance,2020,Management expenses,38231
+Reinsurance,2020,Net commissions,57205
+Reinsurance,2020,Life fund c/f,1534174
+Reinsurance,2019,Inward reinsurance premium,246317
+Reinsurance,2019,outward reinsurance premium,10826
+Reinsurance,2019,Net premium income,235491
+Reinsurance,2019,Management expenses,27293
+Reinsurance,2019,Net commissions,62932
+Reinsurance,2019,Life fund c/f,1496517
+Reinsurance,2018,Inward reinsurance premium,239839
+Reinsurance,2018,outward reinsurance premium,10701
+Reinsurance,2018,Net premium income,229138
+Reinsurance,2018,Management expenses,25995
+Reinsurance,2018,Net commissions,29873
+Reinsurance,2018,Life fund c/f,1386391
+Reinsurance,2017,Inward reinsurance premium,179830
+Reinsurance,2017,outward reinsurance premium,22747
+Reinsurance,2017,Net premium income,157083
+Reinsurance,2017,Management expenses,26601
+Reinsurance,2017,Net commissions,47993
+Reinsurance,2017,Life fund c/f,1241040
+General Insurance,2021,Aviation,3094410
+General Insurance,2021,Engineering,4283167
+General Insurance,2021,Fire Domestic,1770893
+General Insurance,2021,Fire industrial,12949770
+General Insurance,2021,Liability,3358022
+General Insurance,2021,Marine,3637910
+General Insurance,2021,Motor Private,24626670
+General Insurance,2021,Motor Commercial,24279823
+General Insurance,2021,Personal Accident,2400674
+General Insurance,2021,Theft,3992205
+General Insurance,2021,Workmen's Compensation,10659325
+General Insurance,2021,Medical,47586164
+General Insurance,2021,Miscellaneous,4142108
+General Insurance,2020,Aviation,2963413
+General Insurance,2020,Engineering,3249381
+General Insurance,2020,Fire Domestic,1795320
+General Insurance,2020,Fire industrial,10776438
+General Insurance,2020,Liability,3124468
+General Insurance,2020,Marine,3063641
+General Insurance,2020,Motor Private,23449022
+General Insurance,2020,Motor Commercial,21279353
+General Insurance,2020,Personal Accident,2362292
+General Insurance,2020,Theft,3851366
+General Insurance,2020,Workmen's Compensation,6233992
+General Insurance,2020,Medical,45061539
+General Insurance,2020,Miscellaneous,3847235
+General Insurance,2019,Aviation,2109320
+General Insurance,2019,Engineering,3502268
+General Insurance,2019,Fire Domestic,1672639
+General Insurance,2019,Fire industrial,10870577
+General Insurance,2019,Liability,3124267
+General Insurance,2019,Marine,3188714
+General Insurance,2019,Motor Private,23431002
+General Insurance,2019,Motor Commercial,23049684
+General Insurance,2019,Personal Accident,3283857
+General Insurance,2019,Theft,3835945
+General Insurance,2019,Workmen's Compensation,6358473
+General Insurance,2019,Medical,42348102
+General Insurance,2019,Miscellaneous,3741207
+General Insurance,2018,Aviation,2134254
+General Insurance,2018,Engineering,3691508
+General Insurance,2018,Fire Domestic,1595804
+General Insurance,2018,Fire industrial,10824386
+General Insurance,2018,Liability,2728902
+General Insurance,2018,Marine,3370608
+General Insurance,2018,Motor Private,22495605
+General Insurance,2018,Motor Commercial,23593081
+General Insurance,2018,Personal Accident,3157233
+General Insurance,2018,Theft,3863654
+General Insurance,2018,Workmen's Compensation,6225354
+General Insurance,2018,Medical,40195984
+General Insurance,2018,Miscellaneous,3635343
+General Insurance,2017,Aviation,1726496
+General Insurance,2017,Engineering,4190323
+General Insurance,2017,Fire Domestic,1570425
+General Insurance,2017,Fire industrial,11130626
+General Insurance,2017,Liability,2817584
+General Insurance,2017,Marine,3555639
+General Insurance,2017,Motor Private,21484964
+General Insurance,2017,Motor Commercial,23226291
+General Insurance,2017,Personal Accident,3516204
+General Insurance,2017,Theft,3784701
+General Insurance,2017,Workmen's Compensation,5675906
+General Insurance,2017,Medical,38337371
+General Insurance,2017,Miscellaneous,3763080
